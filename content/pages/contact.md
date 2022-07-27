@@ -10,7 +10,7 @@ email: example@example.com
 locations:
   - lat: "26.857520"
     lng: "75.823411"
-    mapLink: ""
+    mapLink: "https://www.google.com/maps/place/Malaviya+National+Institute+of+Technology+Jaipur+(MNIT)/@26.8604526,75.8133182,15.21z/data=!4m5!3m4!1s0x396db66fe2879c7f:0xdfc843bf9b6f869a!8m2!3d26.8639721!4d75.8107764"
 meta:
   description: ""
   title: Contact Us!
