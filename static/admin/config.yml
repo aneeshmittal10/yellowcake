@@ -97,9 +97,9 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-      - file: 'content/pages/blog.md'
-        label: 'Blog Page'
-        name: 'blog-page'
+      - file: 'content/pages/portfolio.md'
+        label: 'Portfolio'
+        name: 'portfolio'
         fields:
           - {
               label: Template,
