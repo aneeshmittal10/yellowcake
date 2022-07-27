@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact Us - Figure Ground Inc.
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
+featuredImage: https://ucarecdn.com/f7f41c5f-2d52-44a4-8773-6202623cda1c/
 subtitle: For more information, feel free to write us..
 address: Jaipur
 phone: 0987 123 456
