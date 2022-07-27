@@ -7,9 +7,12 @@ subtitle: " Welcome to the ultimate Gatsby and Netlify starter project."
 accordion:
   - title: badfbb
     content: fbdafvbcbcdb
+  - title: jtnfgdnn
+    content: "nrgfbcgbneb  "
 meta:
   description: This is a meta description.
   title: Figure Ground Architects
+  noindex: false
 ---
 Figure Ground Inc. is the best place for you interior as well as exterior designs.
 
