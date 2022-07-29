@@ -2,8 +2,8 @@
 template: HomePage
 slug: ""
 title: Figure Ground Inc.
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
-subtitle: " Welcome to the ultimate Gatsby and Netlify starter project."
+featuredImage: https://ucarecdn.com/c9711355-6277-4bac-814c-0e57f0ead8f1/
+subtitle: "Welcome to Figure Ground."
 accordion:
   - title: badfbb
     content: fbdafvbcbcdb
