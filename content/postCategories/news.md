@@ -3,6 +3,6 @@ template: BlogIndex
 title: News
 subtitle: ''
 featuredImage: >-
-  https://ucarecdn.com/db0b1431-8739-426f-970d-8a80eacf02ef/-/preview/-/rotate/270/
+  https://ucarecdn.com/6f81f14f-0a4b-43de-ab30-d88a449c0320/
 ---
 
