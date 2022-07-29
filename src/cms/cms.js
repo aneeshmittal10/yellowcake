@@ -13,7 +13,7 @@ import uploadcare from 'netlify-cms-media-library-uploadcare'
 const config = {
   media_library: {
       config: {
-          publicKey: 85e779fe99f62f1a4159
+          publicKey: process.env.GATSBY_UPLOADCARE_PUBLIC_KEY
       }
   },
 }
