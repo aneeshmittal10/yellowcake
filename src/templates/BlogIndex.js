@@ -63,7 +63,7 @@ IndexTemplate = ({
       }
 
       return (
-        <main className="Portfolio">
+        <main className="Blog">
           <PageHeader
             title={title}
             subtitle={subtitle}
