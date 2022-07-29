@@ -35,7 +35,8 @@ export const byCategory = (posts, title, contentType) => {
 }
 
 // Export Template for use in CMS preview
-export const BlogIndexTemplate = ({
+export const 
+IndexTemplate = ({
   title,
   subtitle,
   featuredImage,
@@ -62,7 +63,7 @@ export const BlogIndexTemplate = ({
       }
 
       return (
-        <main className="Blog">
+        <main className="Portfolio">
           <PageHeader
             title={title}
             subtitle={subtitle}
